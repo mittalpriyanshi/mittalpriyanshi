@@ -26,7 +26,7 @@ I’m endlessly curious about **Web Development** and **Software Engineering**, 
 - 🌱 Currently working on **Full Stack Web Applications** using **MERN Stack**
 - 🤝 Looking to collaborate on **Open Source & Innovative Projects**
 - 💬 Ask me about **Camera, Food, Movies and Music**
-- 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://linkedin.com/in/mittal-priyanshi/) 
+- 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://linkedin.com/in/mittal-priyanshi/)  Let's Connect!
 
 <!--
 
