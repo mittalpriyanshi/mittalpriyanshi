@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋 I am Priyanshi Mittal
 
-A 3rd Year Btech Student in Chemical Engineering at Indian Institute of Technology, IIT (BHU). 
+A Final Year Btech Student in Chemical Engineering at Indian Institute of Technology, IIT (BHU). 
 I’m endlessly curious about **Web Development** and **Software Engineering**, from building seamless user experiences to engineering scalable backends.  
 
 
@@ -25,7 +25,7 @@ I’m endlessly curious about **Web Development** and **Software Engineering**, 
 ## ✨ What I'm Up To
 - 🌱 Currently working on **Full Stack Web Applications** using **MERN Stack**
 - 🤝 Looking to collaborate on **Open Source & Innovative Projects**
-- 💬 Ask me about **Camera, Food, Movies and Music**
+- 💬 Ask me about **Photography, Food, Movies and Music**
 - 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://linkedin.com/in/mittal-priyanshi/)  Let's Connect!
 
 <!--
