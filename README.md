@@ -28,28 +28,13 @@ I’m endlessly curious about **Web Development** and **Software Engineering**, 
 - 💬 Ask me about **Photography, Food, Movies and Music**
 - 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://linkedin.com/in/mittal-priyanshi/)  Let's Connect!
 
-<!--
-
-## 🛠️ Tech Stack & Tools
-<p>
-
-</p>
-
----
-
-## 📊 GitHub Analytics
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mittalpriyanshi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mittalpriyanshi&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mittalpriyanshi&theme=radical)
-
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mittalpriyanshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mittalpriyanshi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mittalpriyanshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=mittalpriyanshi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mittalpriyanshi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
-💡 *Open to collaborations, freelance opportunities, and tech discussions!*  
-
-![Profile Views](https://komarev.com/ghpvc/?username=mittalpriyanshi&style=flat-square)  
--->
+[![](https://visitcount.itsvg.in/api?id=mittalpriyanshi&icon=0&color=0)](https://visitcount.itsvg.in)
